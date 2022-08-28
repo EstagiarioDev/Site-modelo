@@ -1,0 +1,45 @@
+body{
+	background-image: url(imagens/fundo.png);
+}
+
+footer{
+	font-weight: bold;
+	max-width: 1100px;
+	text-align: center;
+}
+
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.links{
+	color: #575754;
+	background-color: #c5c5b2;
+	padding: 20px 0px;
+	width: 1100px;
+}
+
+.descricao{
+	background-color: white;
+	padding: 8px 0px;
+	width: 1100px;
+}
+
+.titulo{
+	font-size: 18px;
+	color: #717672;
+	background-color: white;
+	margin: 8px;
+}
+.paragrafo{
+	margin: 8px;
+}
+
+.fotos{
+	border: 8px solid #c5c5b2;
+	margin: 8px;
+}
+
